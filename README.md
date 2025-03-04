@@ -50,3 +50,6 @@ La base de données permet de gérer les éléments suivants :
 - 📌 **Gestion des clients** : Informations personnelles et historiques de location.
 - 📌 **Gestion des locations** : Date de début, fin, coût, disponibilité.
 - 📌 **Gestion des fournisseurs** : Partenaires et conditions d'approvisionnement.
+
+---
+Développé par Ghassan Jabbour et Sami Halilou dans le cadre du projet **SAÉ S1.02 - Comparaison d’approches algorithmiques** à **Université Clermont Auvergne**.
